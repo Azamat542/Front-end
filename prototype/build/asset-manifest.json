@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflix-react-tailwind/static/css/main.71c142d5.css",
+    "main.js": "/netflix-react-tailwind/static/js/main.51a5f74d.js",
+    "index.html": "/netflix-react-tailwind/index.html",
+    "main.71c142d5.css.map": "/netflix-react-tailwind/static/css/main.71c142d5.css.map",
+    "main.51a5f74d.js.map": "/netflix-react-tailwind/static/js/main.51a5f74d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c142d5.css",
+    "static/js/main.51a5f74d.js"
+  ]
+}
